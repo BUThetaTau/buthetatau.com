@@ -40,7 +40,7 @@ nav ul li a:hover {
 /*TITLE TEXT AND CREST*/
 body {
     padding-top: 60px;
-    background-color: black; /* Makes the entire page black */
+    background-color: #D2B48C; /* Makes the entire page tan */
     color: white; /* Ensures text is readable */
     text-align: center;
 }
@@ -60,7 +60,7 @@ h1 {
 
 /*BUTTON POLAROID CONTAINER*/
 .section {
-    background-color: black; /* Sets the background of each section */
+    background-color: #D2B48C; /* Sets the background of each section */
     color: white; /* Ensures text remains visible */
     padding: 20px; /* Adds spacing inside sections */
     height: 100vh;
